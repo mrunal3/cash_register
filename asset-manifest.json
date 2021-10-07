@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cash_register/static/css/main.3b9280ba.chunk.css",
+    "main.js": "/cash_register/static/js/main.ff977185.chunk.js",
+    "runtime-main.js": "/cash_register/static/js/runtime-main.e40a47b4.js",
+    "static/js/2.c39711f4.chunk.js": "/cash_register/static/js/2.c39711f4.chunk.js",
+    "static/js/3.b7fd9509.chunk.js": "/cash_register/static/js/3.b7fd9509.chunk.js",
+    "index.html": "/cash_register/index.html",
+    "static/js/2.c39711f4.chunk.js.LICENSE.txt": "/cash_register/static/js/2.c39711f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e40a47b4.js",
+    "static/js/2.c39711f4.chunk.js",
+    "static/css/main.3b9280ba.chunk.css",
+    "static/js/main.ff977185.chunk.js"
+  ]
+}
